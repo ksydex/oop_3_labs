@@ -1,0 +1,12 @@
+C:\dotnet\Labs\Labs\Five\bin\Debug\net5.0\Five.deps.json
+C:\dotnet\Labs\Labs\Five\bin\Debug\net5.0\Five.dll
+C:\dotnet\Labs\Labs\Five\bin\Debug\net5.0\ref\Five.dll
+C:\dotnet\Labs\Labs\Five\bin\Debug\net5.0\Five.pdb
+C:\dotnet\Labs\Labs\Five\obj\Debug\net5.0\Five.csprojAssemblyReference.cache
+C:\dotnet\Labs\Labs\Five\obj\Debug\net5.0\Five.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Labs\Labs\Five\obj\Debug\net5.0\Five.AssemblyInfoInputs.cache
+C:\dotnet\Labs\Labs\Five\obj\Debug\net5.0\Five.AssemblyInfo.cs
+C:\dotnet\Labs\Labs\Five\obj\Debug\net5.0\Five.csproj.CoreCompileInputs.cache
+C:\dotnet\Labs\Labs\Five\obj\Debug\net5.0\Five.dll
+C:\dotnet\Labs\Labs\Five\obj\Debug\net5.0\ref\Five.dll
+C:\dotnet\Labs\Labs\Five\obj\Debug\net5.0\Five.pdb

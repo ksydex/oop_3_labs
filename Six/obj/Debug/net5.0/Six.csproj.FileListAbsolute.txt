@@ -1,0 +1,16 @@
+C:\dotnet\Labs\Labs\Six\bin\Debug\net5.0\Six.exe
+C:\dotnet\Labs\Labs\Six\bin\Debug\net5.0\Six.deps.json
+C:\dotnet\Labs\Labs\Six\bin\Debug\net5.0\Six.runtimeconfig.json
+C:\dotnet\Labs\Labs\Six\bin\Debug\net5.0\Six.runtimeconfig.dev.json
+C:\dotnet\Labs\Labs\Six\bin\Debug\net5.0\Six.dll
+C:\dotnet\Labs\Labs\Six\bin\Debug\net5.0\ref\Six.dll
+C:\dotnet\Labs\Labs\Six\bin\Debug\net5.0\Six.pdb
+C:\dotnet\Labs\Labs\Six\obj\Debug\net5.0\Six.csprojAssemblyReference.cache
+C:\dotnet\Labs\Labs\Six\obj\Debug\net5.0\Six.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Labs\Labs\Six\obj\Debug\net5.0\Six.AssemblyInfoInputs.cache
+C:\dotnet\Labs\Labs\Six\obj\Debug\net5.0\Six.AssemblyInfo.cs
+C:\dotnet\Labs\Labs\Six\obj\Debug\net5.0\Six.csproj.CoreCompileInputs.cache
+C:\dotnet\Labs\Labs\Six\obj\Debug\net5.0\Six.dll
+C:\dotnet\Labs\Labs\Six\obj\Debug\net5.0\ref\Six.dll
+C:\dotnet\Labs\Labs\Six\obj\Debug\net5.0\Six.pdb
+C:\dotnet\Labs\Labs\Six\obj\Debug\net5.0\Six.genruntimeconfig.cache

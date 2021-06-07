@@ -1,0 +1,16 @@
+C:\dotnet\Labs\Labs\Second\bin\Debug\net5.0\Second.exe
+C:\dotnet\Labs\Labs\Second\bin\Debug\net5.0\Second.deps.json
+C:\dotnet\Labs\Labs\Second\bin\Debug\net5.0\Second.runtimeconfig.json
+C:\dotnet\Labs\Labs\Second\bin\Debug\net5.0\Second.runtimeconfig.dev.json
+C:\dotnet\Labs\Labs\Second\bin\Debug\net5.0\Second.dll
+C:\dotnet\Labs\Labs\Second\bin\Debug\net5.0\ref\Second.dll
+C:\dotnet\Labs\Labs\Second\bin\Debug\net5.0\Second.pdb
+C:\dotnet\Labs\Labs\Second\obj\Debug\net5.0\Second.csprojAssemblyReference.cache
+C:\dotnet\Labs\Labs\Second\obj\Debug\net5.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Labs\Labs\Second\obj\Debug\net5.0\Second.AssemblyInfoInputs.cache
+C:\dotnet\Labs\Labs\Second\obj\Debug\net5.0\Second.AssemblyInfo.cs
+C:\dotnet\Labs\Labs\Second\obj\Debug\net5.0\Second.csproj.CoreCompileInputs.cache
+C:\dotnet\Labs\Labs\Second\obj\Debug\net5.0\Second.dll
+C:\dotnet\Labs\Labs\Second\obj\Debug\net5.0\ref\Second.dll
+C:\dotnet\Labs\Labs\Second\obj\Debug\net5.0\Second.pdb
+C:\dotnet\Labs\Labs\Second\obj\Debug\net5.0\Second.genruntimeconfig.cache

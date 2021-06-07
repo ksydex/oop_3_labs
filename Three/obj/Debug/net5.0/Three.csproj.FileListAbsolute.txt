@@ -1,0 +1,16 @@
+C:\dotnet\Labs\Labs\Three\bin\Debug\net5.0\Three.exe
+C:\dotnet\Labs\Labs\Three\bin\Debug\net5.0\Three.deps.json
+C:\dotnet\Labs\Labs\Three\bin\Debug\net5.0\Three.runtimeconfig.json
+C:\dotnet\Labs\Labs\Three\bin\Debug\net5.0\Three.runtimeconfig.dev.json
+C:\dotnet\Labs\Labs\Three\bin\Debug\net5.0\Three.dll
+C:\dotnet\Labs\Labs\Three\bin\Debug\net5.0\ref\Three.dll
+C:\dotnet\Labs\Labs\Three\bin\Debug\net5.0\Three.pdb
+C:\dotnet\Labs\Labs\Three\obj\Debug\net5.0\Three.csprojAssemblyReference.cache
+C:\dotnet\Labs\Labs\Three\obj\Debug\net5.0\Three.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Labs\Labs\Three\obj\Debug\net5.0\Three.AssemblyInfoInputs.cache
+C:\dotnet\Labs\Labs\Three\obj\Debug\net5.0\Three.AssemblyInfo.cs
+C:\dotnet\Labs\Labs\Three\obj\Debug\net5.0\Three.csproj.CoreCompileInputs.cache
+C:\dotnet\Labs\Labs\Three\obj\Debug\net5.0\Three.dll
+C:\dotnet\Labs\Labs\Three\obj\Debug\net5.0\ref\Three.dll
+C:\dotnet\Labs\Labs\Three\obj\Debug\net5.0\Three.pdb
+C:\dotnet\Labs\Labs\Three\obj\Debug\net5.0\Three.genruntimeconfig.cache

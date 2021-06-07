@@ -1,0 +1,16 @@
+C:\dotnet\Labs\Labs\First\bin\Debug\net5.0\First.exe
+C:\dotnet\Labs\Labs\First\bin\Debug\net5.0\First.deps.json
+C:\dotnet\Labs\Labs\First\bin\Debug\net5.0\First.runtimeconfig.json
+C:\dotnet\Labs\Labs\First\bin\Debug\net5.0\First.runtimeconfig.dev.json
+C:\dotnet\Labs\Labs\First\bin\Debug\net5.0\First.dll
+C:\dotnet\Labs\Labs\First\bin\Debug\net5.0\ref\First.dll
+C:\dotnet\Labs\Labs\First\bin\Debug\net5.0\First.pdb
+C:\dotnet\Labs\Labs\First\obj\Debug\net5.0\First.csprojAssemblyReference.cache
+C:\dotnet\Labs\Labs\First\obj\Debug\net5.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Labs\Labs\First\obj\Debug\net5.0\First.AssemblyInfoInputs.cache
+C:\dotnet\Labs\Labs\First\obj\Debug\net5.0\First.AssemblyInfo.cs
+C:\dotnet\Labs\Labs\First\obj\Debug\net5.0\First.csproj.CoreCompileInputs.cache
+C:\dotnet\Labs\Labs\First\obj\Debug\net5.0\First.dll
+C:\dotnet\Labs\Labs\First\obj\Debug\net5.0\ref\First.dll
+C:\dotnet\Labs\Labs\First\obj\Debug\net5.0\First.pdb
+C:\dotnet\Labs\Labs\First\obj\Debug\net5.0\First.genruntimeconfig.cache
